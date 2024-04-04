@@ -9,7 +9,7 @@
 
       <div class="col-md-6 col-lg-5 col-xl-4 mb-4 mb-md-0">
 
-        <h5 class="font-weight-bold mb-3 text-center text-lg-start">Member</h5>
+        <h5 class="font-weight-bold mb-3 text-center text-lg-start">Member5555</h5>
 
         <div class="card">
           <div class="card-body">
